@@ -13,6 +13,7 @@
 我为Minecraft服务器开发了多个Bukkit插件，包括：
 
 - [KamiBan](https://github.com/while1cry/KamiBan) - 高效便捷的服务器管理插件
+- [LeviaKookBot](https://github.com/while1cry/LeviaKookBot) - 贴心的Kook服务器管理机器人
 - [PearlRider](https://github.com/while1cry/PearlRider) - 末影珍珠骑士
 
 随时探索这些项目并提供反馈或建议！
