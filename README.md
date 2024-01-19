@@ -4,8 +4,8 @@
 
 ## 关于我
 
-- 💼 目前正在开发 [KamiBan](https://github.com/while1cry/KamiBan)
-- 🌱 正在学习并探索Java生态系统中的新技术
+- 💼 目前正在开发 KamiReport
+- 🌱 正在学习并探索Java生态中的新技术
 - 📫 通过电子邮件 [while1cry@163.com](mailto://while1cry@163.com) 与我联系
 
 ## Bukkit插件
