@@ -28,7 +28,7 @@
 
 ### KamiLand Network
 
-另外，我的组织 [KamiLand Network](https://github.com/KamiLand-Network)[官方网站](https://www.kamiland.net) 还开发了这些项目：
+另外，我的组织 [KamiLand Network](https://github.com/KamiLand-Network) [官方网站](https://www.kamiland.net) 还开发了这些项目：
 - [KamiChat](https://github.com/KamiLand-Network/KamiChat) —— 提供高效、便捷的聊天管理功能。
 - [Aegis](https://github.com/KamiLand-Network/Aegis-API) —— 一个用于Minecraft服务器的高级安全管理插件。
 
