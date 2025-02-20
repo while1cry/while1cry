@@ -36,7 +36,7 @@
 
 除了Minecraft插件开发，我还在探索Kook机器人的开发，致力于通过自动化和智能化工具提升社区互动和管理效率。
 以下是我的Kook机器人项目：
-- [LitePerms](https://github.com/while1cry/LitePerms) —— 基于[KookBC](https://github.com/SNWCreations/KookBC)开发的权限管理插件
+- [LitePerms](https://github.com/while1cry/LitePerms) —— 一个基于[KookBC](https://github.com/SNWCreations/KookBC)开发的权限管理插件
 - [Viento](https://github.com/while1cry/Viento) —— 一个基于[KookBC](https://github.com/SNWCreations/KookBC)开发的多功能服务器机器人。
 
 ## 接受项目订单
