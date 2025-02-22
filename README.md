@@ -9,8 +9,8 @@
 
 ## 关于我
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=while1cry&show_icons=true&theme=blue_navy&locale=cn&rank_icon=github&card_width=500&hide_title=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=while1cry&layout=compact&locale=cn&theme=blue_navy&card_width=500)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=while1cry&show_icons=true&theme=blue_navy&locale=cn&rank_icon=github&card_width=400&hide_title=true&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=while1cry&layout=compact&locale=cn&theme=blue_navy&card_width=400)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=while1cry&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph&locale=cn)
 
 - 💼 正在开发 [Aegis](https://github.com/KamiLand-Network/Aegis-API) —— 一个用于Minecraft服务器的高级安全管理插件。
