@@ -28,6 +28,9 @@ NapCatQQ 的 Java SDK，为 QQ 机器人开发提供更便捷的接入方式。
 **[KamiHub](https://github.com/KamiLand-Network/KamiHub)**
 适用于高版本 Spigot 服务器的大厅管理插件，由 [KamiLand Network](https://github.com/KamiLand-Network) 维护。
 
+**[Ocular](https://github.com/while1cry/Ocular)**
+AI 赋能的自托管知识库，为学习者而生。
+
 ## 接单
 
 目前接受以下方向的项目合作：
