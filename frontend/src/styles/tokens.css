@@ -1,0 +1,87 @@
+/* ========================================
+   Design Tokens — Deep Space
+   ======================================== */
+
+:root {
+  /* Background layers — from void to surface */
+  --color-void: #06060e;
+  --color-deep-space: #0a0d17;
+  --color-space: #111827;
+  --color-surface: #1a1f2e;
+
+  /* Starlight accents — warm */
+  --color-starlight: #e8d5b7;
+  --color-starlight-dim: #8a7b6a;
+  --color-starlight-weak: #5a5045;
+
+  /* Nebula accents — cool */
+  --color-nebula: #7b8fc7;
+  --color-nebula-dim: #4a5580;
+  --color-nebula-weak: #2a3050;
+
+  /* Meteor / transient highlights */
+  --color-meteor: #f0c27b;
+  --color-meteor-soft: #f0c27b1a;
+
+  /* Cosmic accent */
+  --color-cosmic: #1a1040;
+
+  /* Typography colors */
+  --color-text-primary: #e0ddd6;
+  --color-text-secondary: #8b887d;
+  --color-text-muted: #555350;
+
+  /* Font families */
+  --font-serif: 'LXGW WenKai', 'Noto Serif SC', 'Source Han Serif SC', serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB',
+    'Microsoft YaHei', sans-serif;
+  --font-mono: 'Cascadia Code', 'Fira Code', 'JetBrains Mono', 'Consolas', 'SF Mono', monospace;
+
+  /* Type scale */
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 1.875rem;
+  --text-4xl: 2.25rem;
+  --text-5xl: 3rem;
+
+  --leading-normal: 1.6;
+  --leading-relaxed: 1.75;
+  --leading-heading: 1.3;
+
+  /* Spacing */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+  --space-2xl: 3rem;
+  --space-3xl: 5rem;
+
+  /* Borders & Radii */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+
+  --border-subtle: 1px solid var(--color-nebula-weak);
+
+  /* Easing curves */
+  --ease-out-expo: cubic-bezier(0.19, 1, 0.22, 1);
+  --ease-in-out-quint: cubic-bezier(0.83, 0, 0.17, 1);
+  --ease-out-quart: cubic-bezier(0.25, 1, 0.5, 1);
+
+  /* Duration tokens */
+  --duration-instant: 100ms;
+  --duration-fast: 200ms;
+  --duration-normal: 400ms;
+  --duration-slow: 800ms;
+  --duration-glacial: 2000ms;
+
+  /* Layout */
+  --content-max-width: 720px;
+  --content-wide-max-width: 960px;
+  --header-height: 56px;
+}

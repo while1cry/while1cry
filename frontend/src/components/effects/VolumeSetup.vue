@@ -252,4 +252,18 @@ function confirm() {
     transform: translateY(0) scale(1);
   }
 }
+
+@media (max-width: 640px) {
+  .volume-panel {
+    padding: var(--space-xl) var(--space-lg);
+    gap: var(--space-md);
+    margin: var(--space-md);
+  }
+  .volume-title {
+    font-size: var(--text-lg);
+  }
+  .volume-star {
+    font-size: 1.5rem;
+  }
+}
 </style>

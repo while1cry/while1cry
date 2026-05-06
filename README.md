@@ -41,8 +41,4 @@ AI 赋能的自托管知识库，为学习者而生。
 
 - 网站：[while1cry.me](https://while1cry.me)
 - 邮件：[while1cry@proton.me](mailto:while1cry@proton.me)
-- QQ / Discord：[点击联系](https://while1cry.me/contact)
-
----
-
-*[KamiLand Network](https://www.kamiland.net) 成员*
+- QQ / Discord：[点击联系](https://while1cry.me/links)
